@@ -1,9 +1,9 @@
 export const navigationLinks = [
-  { label: 'Início', path: '#home' },
-  { label: 'Sobre mim', path: '#about' },
-  { label: 'Projetos', path: '#projects' },
-  { label: 'Habilidades', path: '#skills' },
-  { label: 'Contato', path: '#contact' }
+  { label: 'Start', path: '#home' },
+  { label: 'About Me', path: '#about' },
+  { label: 'Projects', path: '#projects' },
+  { label: 'Skills', path: '#skills' },
+  { label: 'Contact', path: '#contact' }
 ]
 
 export type projectType = {

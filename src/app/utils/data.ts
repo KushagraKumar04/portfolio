@@ -17,13 +17,13 @@ export type projectType = {
 
 export const projectsData: projectType[] = [
   {
-    name: 'Countries App',
-    repo: 'https://github.com/grazziotti/rest-countries-api',
-    url: 'https://rest-countries-api-grazziotti.vercel.app/',
+    name: 'Coffee Date Invitation',
+    repo: 'https://github.com/KushagraKumar04/Coffee-Date',
+    url: 'https://kushagrakumar04.github.io/Coffee-Date/',
     image:
-      'https://i.ibb.co/b69XhBD/Screenshot-2023-07-11-at-22-26-22-REST-Countries-API.png',
+      'Images/image.png',
     description:
-      'O Countries App é um aplicativo web que fornece informações sobre diferentes países ao redor do mundo.',
+      'This project showcases a simple and elegant web page that confirms the acceptance of a coffee date invitation. Built with HTML and CSS, it features a visually appealing design with a background image, a welcoming message, and a convenient button to return to the homepage.',
     tags: ['react', 'typescript', 'styled-components', 'axios', 'api']
   },
   {
@@ -33,32 +33,32 @@ export const projectsData: projectType[] = [
     image:
       'https://i.ibb.co/c17p422/Screenshot-2023-07-16-at-00-54-48-Space-Tourism-Website.png',
     description: 'Multi-page Website com tema espacial.',
-    tags: ['react', 'typescript', 'styled-components']
+    tags: ['html', 'css', 'frontend', 'webpage']
   },
   {
-    name: 'Interactive comments section',
-    repo: 'https://github.com/grazziotti/interactive-comments-section',
+    name: 'LaTeX-Resume-Builder',
+    repo: 'https://github.com/KushagraKumar04/LaTeX-Resume-Builder',
     url: 'https://interactive-comments-section-eta.vercel.app/',
     image:
       'https://i.ibb.co/4WNm2qY/Screenshot-2023-07-14-at-23-31-53-Frontend-Mentor-Interactive-comments-section.png',
-    description: 'Seção de comentários interativos. CRUD. client-side.',
-    tags: ['react', 'typescript', 'styled-components']
+    description: 'Building a resume builder using LaTeX.',
+    tags: ['MongoDB', 'react', 'Java Script']
   },
   {
-    name: 'Comment API',
-    repo: 'https://github.com/grazziotti/comment-api',
+    name: 'Face Emotion Recognition',
+    repo: 'https://github.com/KushagraKumar04/Face-Emotion-Recognition',
     url: false,
     image:
-      'https://i.ibb.co/BKRLTZx/Screenshot-2024-03-05-at-23-44-09-Swagger-UI.png',
-    description: 'API REST de comentários.',
-    tags: ['express', 'api', 'backend', 'nodejs', 'typescript']
+      'Images/Face_Emotion_interface.png',
+    description: 'Detects various aspects from the picture provided.',
+    tags: ['deepface', 'python', 'machine learning', 'colab',]
   },
   {
-    name: 'Job listings with filtering',
-    repo: 'https://github.com/grazziotti/job-listings-with-filtering',
-    url: 'https://job-listings-with-filtering-khaki.vercel.app/',
+    name: 'Traffic Accident Analysis',
+    repo: 'https://github.com/KushagraKumar04/Traffic-Accident-Analysis',
+    url: 'false',
     image:
-      'https://i.ibb.co/47J3Fjt/Screenshot-2023-09-09-at-20-29-20-Frontend-Mentor-Job-Listings.png',
+      'Images/Accident_Analysis.png',
     description: 'Listagem de dados locais com filtragem.',
     tags: ['react', 'typescript', 'bem']
   },

@@ -17,13 +17,12 @@ export const About = () => {
           className="flex max-w-2xl flex-col gap-6 text-xl md:text-center sm:text-lg"
         >
           <p>
-            Olá, me chamo Daniel Grazziotti. Sou apaixonado por tecnologia e um
-            entusiasta do desenvolvimento web. Tenho utilizado em meus projetos
-            React, Next.js, Node.js, Express e mais.
+          Hello, my name is Kushagra Kumar. I'm passionate about technology and a
+          Data enthusiast. Thrive in fast-paced environment and committed to continuous growth. Ready to contribute to a dynamic team.
           </p>
 
           <p>
-            Atualmente estudando, praticando e buscando novas oportunidades.
+          Currently studying, practicing and looking for new opportunities
           </p>
           <MotionDiv className="flex justify-start md:justify-center">
             <Link

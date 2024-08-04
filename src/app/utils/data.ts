@@ -17,7 +17,7 @@ export type projectType = {
 
 export const projectsData: projectType[] = [
   {
-    name: 'Countries App',
+    name: 'Latex Based Resume Builder',
     repo: 'https://github.com/grazziotti/rest-countries-api',
     url: 'https://rest-countries-api-grazziotti.vercel.app/',
     image:

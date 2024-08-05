@@ -1,9 +1,9 @@
 export const navigationLinks = [
-  { label: 'Start', path: '#home' },
-  { label: 'About Me', path: '#about' },
-  { label: 'Projects', path: '#projects' },
-  { label: 'Skills', path: '#skills' },
-  { label: 'Contact', path: '#contact' }
+  { label: 'Início', path: '#home' },
+  { label: 'Sobre mim', path: '#about' },
+  { label: 'Projetos', path: '#projects' },
+  { label: 'Habilidades', path: '#skills' },
+  { label: 'Contato', path: '#contact' }
 ]
 
 export type projectType = {
@@ -17,7 +17,7 @@ export type projectType = {
 
 export const projectsData: projectType[] = [
   {
-    name: 'Latex Based Resume Builder',
+    name: 'Countries App',
     repo: 'https://github.com/grazziotti/rest-countries-api',
     url: 'https://rest-countries-api-grazziotti.vercel.app/',
     image:

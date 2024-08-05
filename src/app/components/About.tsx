@@ -18,7 +18,7 @@ export const About = () => {
         >
           <p>
             Hello, my name is{' '}
-            <span className="font-bold text-target">Kushagra Kumar</span>. I
+            <span className="font-bold text-target">Kushagra Kumar</span>
             am passionate about technology and a web development enthusiast. I
             have been using React, Next.js, Node.js, Express, and more in my
             projects. Currently studying, practicing, and looking for new

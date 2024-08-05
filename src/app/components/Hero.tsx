@@ -16,7 +16,7 @@ export const Hero = () => {
             }}
             className="text-center text-8xl font-bold md:text-7xl sm:text-5xl"
           >
-            Daniel Grazziotti<span className="text-target">.</span>
+            Kushagra Kumar<span className="text-target"></span>
           </MotionH1>
           <MotionP
             initial={{ opacity: 0, x: -40 }}
@@ -28,8 +28,8 @@ export const Hero = () => {
             }}
             className="text-center text-4xl sm:text-3xl"
           >
-            Desenvolvedor{' '}
-            <span className="font-bold text-target">Full-stack</span>
+            {'DATA '}
+            <span className="font-bold text-target">ANALYST</span>
           </MotionP>
           <MotionDiv
             initial={{ opacity: 0, y: 40 }}

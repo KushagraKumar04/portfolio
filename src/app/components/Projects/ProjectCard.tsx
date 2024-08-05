@@ -90,7 +90,7 @@ export const ProjectCard = ({ projectData }: Props) => {
         <h3 className="text-2xl font-bold">{projectData.name}</h3>
         <p className="text-lg">{projectData.description}</p>
         <div className="flex flex-wrap gap-3">
-          {projectData.tags.map((tag, index) => (
+          {projectData.Skills.map((tag, index) => (
             <span
               className="rounded-3xl bg-target bg-opacity-20 px-2 py-1 text-sm font-bold text-target "
               key={index}

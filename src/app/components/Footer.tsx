@@ -6,11 +6,11 @@ const iconSize = { width: 28, height: 28 }
 
 const socialData = [
   {
-    link: 'https://github.com/grazziotti',
+    link: 'https://github.com/kushagrakumar04',
     icon: <Github width={iconSize.width} height={iconSize.height} />
   },
   {
-    link: 'https://www.linkedin.com/in/daniel-grazziotti/',
+    link: 'https://www.linkedin.com/in/kushagrakumar11/',
     icon: <Linkedin width={iconSize.width} height={iconSize.height} />
   }
 ]
@@ -29,7 +29,7 @@ export const Footer = () => {
         }}
         className="mx-auto flex w-full max-w-5xl items-center justify-between border-t py-8 text-lg sm:flex-col sm:gap-y-6"
       >
-        <p>© 2023 / Daniel Grazziotti</p>
+        <p>© 2024 Kushagra Kumar</p>
         <div className="flex items-center gap-4">
           {socialData.map((social, index) => (
             <a

@@ -18,11 +18,11 @@ export const About = () => {
         >
           <p>
             Hello, my name is{' '}
-            <span className="font-bold text-target">Kushagra Kumar</span>I am
-            passionate about technology and a web development enthusiast. I have
-            been using React, Next.js, Node.js, Express, and more in my
-            projects. Currently studying, practicing, and looking for new
-            opportunities.
+            <span className="font-bold text-target">Kushagra Kumar</span> I am a
+            results-driven professional with a passion for technology,
+            sustainability, healthcare. Known for strong communication, problem
+            solving. Thrive in fast-paced environment and committed to
+            continuous growth. Ready to contribute to a dynamic team.
           </p>
           <MotionDiv className="flex justify-start md:justify-center">
             <Link

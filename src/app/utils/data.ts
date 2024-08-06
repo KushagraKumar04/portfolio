@@ -26,8 +26,8 @@ export const projectsData: projectType[] = [
     Skills: ['css', 'html', 'animation-css', 'web', 'interactive']
   },
   {
-    name: '#',
-    repo: '#',
+    name: 'Face Emotion Recognisation',
+    repo: 'https://github.com/KushagraKumar04/Face-Emotion-Recognition',
     url: '#',
     image:
       'https://i.ibb.co/b69XhBD/Screenshot-2023-07-11-at-22-26-22-REST-Countries-API.png',

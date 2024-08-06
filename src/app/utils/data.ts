@@ -22,7 +22,8 @@ export const projectsData: projectType[] = [
     url: 'https://kushagrakumar04.github.io/Coffee-Date/',
     image:
       'https://drive.google.com/uc?export=view&id=1aFu4P9V9tBjdosJtkBecQbjNKpf_8FW_',
-    description: 'This project showcases a simple and elegant web page that confirms the acceptance of a coffee date invitation. Built with HTML and CSS, it features a visually appealing design with a background image, a welcoming message, and a convenient button to return to the homepage.',
+    description:
+      'This project showcases a simple and elegant web page that confirms the acceptance of a coffee date invitation. Built with HTML and CSS, it features a visually appealing design with a background image, a welcoming message, and a convenient button to return to the homepage.',
     Skills: ['css', 'html', 'animation-css', 'web', 'interactive']
   },
   {

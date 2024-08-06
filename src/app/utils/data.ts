@@ -17,13 +17,13 @@ export type projectType = {
 
 export const projectsData: projectType[] = [
   {
-    name: '#',
-    repo: '#',
-    url: '#',
+    name: 'Coffee Date',
+    repo: 'https://github.com/KushagraKumar04/Coffee-Date',
+    url: 'https://kushagrakumar04.github.io/Coffee-Date/',
     image:
-      'https://i.ibb.co/b69XhBD/Screenshot-2023-07-11-at-22-26-22-REST-Countries-API.png',
-    description: '#',
-    Skills: ['react', 'typescript', 'styled-components', 'axios', 'api']
+      'https://drive.google.com/uc?export=view&id=1aFu4P9V9tBjdosJtkBecQbjNKpf_8FW_',
+    description: 'This project showcases a simple and elegant web page that confirms the acceptance of a coffee date invitation. Built with HTML and CSS, it features a visually appealing design with a background image, a welcoming message, and a convenient button to return to the homepage.',
+    Skills: ['css', 'html', 'animation-css', 'web', 'interactive']
   },
   {
     name: '#',

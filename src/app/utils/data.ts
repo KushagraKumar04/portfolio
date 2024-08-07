@@ -43,8 +43,8 @@ export const projectsData: projectType[] = [
     image:
       'https://drive.google.com/uc?export=view&id=19PW6X7bGyfsTvzWcI407HOMlkpN9IKL1',
     description:
-      'This project showcases a simple and elegant web page that confirms the acceptance of a coffee date invitation. Built with HTML and CSS, it features a visually appealing design with a background image, a welcoming message, and a convenient button to return to the homepage.',
-    Skills: ['css', 'html', 'animation-css', 'web', 'interactive']
+      'This project analyzes traffic accident data to identify patterns based on road conditions, weather, and time of day. Visual representations of accident hotspots and contributing factors are created to offer a comprehensive understanding of the dynamics involved. The insights from this analysis aim to develop targeted strategy to improve road safety',
+    Skills: ['python', 'Data Analysis', 'Data Refining', 'pandas', 'Matplot']
   }
 ]
 

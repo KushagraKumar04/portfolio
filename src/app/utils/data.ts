@@ -37,11 +37,11 @@ export const projectsData: projectType[] = [
     Skills: ['python', 'deepface', 'google Collab', 'Machine Learning']
   },
   {
-    name: 'Coffee Date',
-    repo: 'https://github.com/KushagraKumar04/Coffee-Date',
-    url: 'https://kushagrakumar04.github.io/Coffee-Date/',
+    name: 'Traffic Accident Data Analysis',
+    repo: 'https://github.com/KushagraKumar04/Traffic-Accident-Analysis',
+    url: 'https://github.com/KushagraKumar04/Traffic-Accident-Analysis/blob/main/Task3.ipynb',
     image:
-      'https://drive.google.com/uc?export=view&id=1aFu4P9V9tBjdosJtkBecQbjNKpf_8FW_',
+      'https://drive.google.com/uc?export=view&id=19PW6X7bGyfsTvzWcI407HOMlkpN9IKL1',
     description:
       'This project showcases a simple and elegant web page that confirms the acceptance of a coffee date invitation. Built with HTML and CSS, it features a visually appealing design with a background image, a welcoming message, and a convenient button to return to the homepage.',
     Skills: ['css', 'html', 'animation-css', 'web', 'interactive']

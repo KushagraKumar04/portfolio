@@ -29,11 +29,12 @@ export const projectsData: projectType[] = [
   {
     name: 'Face Emotion Recognisation',
     repo: 'https://github.com/KushagraKumar04/Face-Emotion-Recognition',
-    url: '#',
+    url: 'https://github.com/KushagraKumar04/Face-Emotion-Recognition',
     image:
-      'https://i.ibb.co/b69XhBD/Screenshot-2023-07-11-at-22-26-22-REST-Countries-API.png',
-    description: '#',
-    Skills: ['react', 'typescript', 'styled-components', 'axios', 'api']
+      'https://drive.google.com/uc?export=view&id=1wFnBkr5tgOKTfOty3Cm5_HDhayoU2t9L',
+    description:
+      'The Face Emotion Recognition project utilizes the DeepFace library to detect and analyze emotions from facial images. This project leverages the power of deep learning and computer vision to accurately identify emotions such as happiness, sadness, anger, surprise, and more, directly from uploaded images. The project is implemented using Python and is run on Google Colab for ease of access and computational efficiency.',
+    Skills: ['python', 'deepface', 'google Collab', 'Machine Learning']
   }
 ]
 

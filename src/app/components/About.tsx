@@ -29,7 +29,7 @@ export const About = () => {
               href="#contact"
               className="flex items-center gap-x-2 text-target transition-all hover:gap-x-3 hover:text-[#3385ff]"
             >
-              Contact me <MoveRight />
+              Contact me.. <MoveRight />
             </Link>
           </MotionDiv>
         </MotionDiv>

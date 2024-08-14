@@ -20,7 +20,7 @@ export const About = () => {
             Hello, my name is{' '}
             <span className="font-bold text-target">Kushagra Kumar</span> I am a
             results-driven professional with a passion for technology,
-            sustainability, healthcare. Known for strong communication, problem
+            sustainability, healthcare. Known for strong communications, problem
             solving. Thrive in fast-paced environment and committed to
             continuous growth. Ready to contribute to a dynamic team.
           </p>

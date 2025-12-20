@@ -158,10 +158,11 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📬 Contact
 
 **Kushagra Kumar**
-- **Email**: [Your Email Here]
+- **Email**: kushagrakumar110@gmail.com
 - **LinkedIn**: [https://linkedin.com/in/kushagrakumar11/](https://linkedin.com/in/kushagrakumar11/)
 - **GitHub**: [https://github.com/kushagrakumar04](https://github.com/kushagrakumar04)
 
 ---
 
 ⭐ **Star this repo** if you found it helpful!
+
